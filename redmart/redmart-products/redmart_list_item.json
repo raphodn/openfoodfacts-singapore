@@ -1,0 +1,207 @@
+{
+  "categories": [
+    1,
+    14,
+    11045,
+    11084,
+    11611,
+    12801,
+    13225,
+    13286,
+    13292,
+    13458,
+    13873,
+    15214,
+    4873,
+    17459,
+    17592,
+    17600,
+    17587,
+    18287,
+    1,
+    10878,
+    19438,
+    19585,
+    20401,
+    20661,
+    21048,
+    21286,
+    21288,
+    21290
+  ],
+  "desc": "Chocolate and Malt flavored WHOLE GRAIN Wheat balls breakfast cereal WHOLE GRAIN as its main ingredient Contains dietary fiber (to keep your children fuller for longer) Contains Group B Vitamins (for alertness in school) Contains Iron, Calcium, Folic Acid.",
+  "details": {
+    "uri": "nestle-milo-cereals-econo-pack-breakfast-cereal-49064",
+    "status": 1,
+    "is_new": 0,
+    "prod_type": 0,
+    "storage_class": "WestTote",
+    "country_of_origin": "Malaysia"
+  },
+  "filters": {
+    "brand": 1805,
+    "frequency": 867,
+    "brand_uri": "nestle",
+    "mfr_name": "Nestle",
+    "brand_name": "Nestle",
+    "vendor_name": "Nestle",
+    "trending_frequency": 7
+  },
+  "id": 49064,
+  "images": [
+    {
+      "name": "/i/m/img_1532669358591.jpg",
+      "position": 0,
+      "h": 0,
+      "w": 0
+    },
+    {
+      "name": "/i/m/4800361355872_0002_1479322746858.jpg",
+      "position": 1,
+      "h": 0,
+      "w": 0
+    },
+    {
+      "name": "/i/m/4800361355872_0003_1479322750891.jpg",
+      "position": 2,
+      "h": 0,
+      "w": 0
+    },
+    {
+      "name": "/i/m/4800361355872_0004_1479322755421.jpg",
+      "position": 3,
+      "h": 0,
+      "w": 0
+    }
+  ],
+  "img": {
+    "name": "/i/m/img_1532669358591.jpg",
+    "position": 0,
+    "h": 0,
+    "w": 0
+  },
+  "inventory": {
+    "id": 49064,
+    "max_sale_qty": 48,
+    "stock_status": 1,
+    "qty_in_stock": 48,
+    "qty_in_carts": 0,
+    "next_available_date": "2019-04-06T15:49:01Z",
+    "atp_lots": [
+      {
+        "from_date": "2019-04-06T15:49:01Z",
+        "to_date": "2020-01-06T15:59:59Z",
+        "stock_status": 1,
+        "qty_in_stock": 48,
+        "qty_in_carts": 0,
+        "qty_in_hand": 48
+      }
+    ],
+    "atp_status": 0,
+    "delivery_option": "STANDARD",
+    "fulfillment_source": "SG.WESTFC"
+  },
+  "inventories": [
+    {
+      "id": 49064,
+      "max_sale_qty": 48,
+      "stock_status": 1,
+      "qty_in_stock": 48,
+      "qty_in_carts": 0,
+      "next_available_date": "2019-04-06T15:49:01Z",
+      "atp_lots": [
+        {
+          "from_date": "2019-04-06T15:49:01Z",
+          "to_date": "2020-01-06T15:59:59Z",
+          "stock_status": 1,
+          "qty_in_stock": 48,
+          "qty_in_carts": 0,
+          "qty_in_hand": 48
+        }
+      ],
+      "atp_status": 0,
+      "delivery_option": "STANDARD",
+      "fulfillment_source": "SG.WESTFC"
+    }
+  ],
+  "measure": {
+    "size": 0.0,
+    "wt_or_vol": "500 g",
+    "vol": "",
+    "wt_metric": "g",
+    "wt": "500",
+    "vol_metric_alt": "",
+    "vol_metric": ""
+  },
+  "pricing": {
+    "price": 7.7,
+    "savings": 0.0,
+    "on_sale": 0,
+    "savings_type": 0
+  },
+  "serviceability": [
+    "STANDARD"
+  ],
+  "sku": "4800361355872",
+  "title": "NESTLE MILO Breakfast Cereal With Whole Grain",
+  "types": [
+    11481,
+    11085,
+    13288,
+    13468,
+    14568,
+    15691,
+    17593,
+    17603,
+    17801,
+    10904,
+    19439,
+    21295,
+    21317
+  ],
+  "promotions": [
+    {
+      "id": 383035,
+      "type": 5,
+      "products": [
+        {
+          "images": [
+            {
+              "name": "/i/m/img_1532669326617.jpg"
+            }
+          ],
+          "group_name": "Nestle Cereals",
+          "group_id": 1,
+          "min_qty": 5,
+          "is_free": false
+        },
+        {
+          "images": [
+            {
+              "name": "/i/m/img_1551685747214.jpg"
+            }
+          ],
+          "group_name": "FREE UA Bag",
+          "group_id": 2,
+          "min_qty": 1,
+          "is_free": true
+        }
+      ],
+      "savings_text": "Any 5 ADD UA Bag",
+      "promo_label": "Buy 5 Nestle Cereals Add FREE UA Bag",
+      "current_product_group_id": 1,
+      "has_free_gift": true
+    }
+  ],
+  "product_life": {
+    "time": 45,
+    "metric": "D",
+    "time_including_delivery": 46,
+    "is_minimum": true
+  },
+  "added_at": "2017-09-04T13:50:19Z",
+  "last_purchased": "2017-09-04T13:50:19Z",
+  "personal_quantity": 30,
+  "personal_frequency": 13,
+  "price_watch": false
+}
